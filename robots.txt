@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://teal-kitsune-6d4672.netlify.app/sitemap.xml
